@@ -1,4 +1,5 @@
-
+.ipynb_checkpoints
+img/Thumbs.db
 example_solutions/
 example_solutions/*
 draft_cells.ipynb
