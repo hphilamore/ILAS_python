@@ -23,6 +23,10 @@ In the terminal type or copy and paste the following and press enter:
 PATH=M:¥Documents¥PortableGit¥bin;%PATH%
 ```
 
+```
+PATH=M:\Documents\PortableGit\bin;%PATH%
+```
+
 ## Acknowledgments
 
 Contributing texts:
