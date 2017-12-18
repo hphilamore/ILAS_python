@@ -1,4 +1,4 @@
-# Answer to Review Excercise: Python files - Storing Functions.
+# Answer to Review Excercise: Python files - Importing user-defined functions.
 import reading_functions as rf
 
 print(rf.read_whole("../sample_data/dot.txt"))

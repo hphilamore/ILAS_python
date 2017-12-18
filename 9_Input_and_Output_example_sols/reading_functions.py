@@ -1,3 +1,5 @@
+# Answer to Review Excercise: Python files - Storing Functions.
+
 # function to read whole file with default argument to read only mode="r"
 def read_whole(file, mode="r"):
 	"Reads whole file. Returns contents" 
