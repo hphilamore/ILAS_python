@@ -10,13 +10,9 @@ def f(n):
             return f(n - 1) + f(n - 2)  # Calls f for n-1 and n-2 (recursion) 
 
 def test_fibonacci():
-	print("hi")
-	assert f(0) == 0
-	assert f(1) == 1
-	assert f(2) == 1
-	assert f(3) == 2
-	assert f(10) == 55
-	assert f(15) == 610, "Fail: Fibonacci number, term 15, is incorrect"
-
-def test_2():
-	assertEqual(f(1),f(2))
+        assert f(0) == 0
+        assert f(1) == 1
+        assert f(2) == 1
+        assert f(3) == 2
+        assert f(10) == 55
+        assert f(15) == 610, "Fail: Fibonacci number, term 15, is incorrect"

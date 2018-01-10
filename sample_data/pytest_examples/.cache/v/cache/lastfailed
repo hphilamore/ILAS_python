@@ -1,3 +1,6 @@
 {
-  "test_fib_example.py::test_2": true
+  "calculator_example.py": true,
+  "calculator_example.py::test_calculator_add_method_returns_correct_result_for_floats": true,
+  "test_fib_example.py::test_2": true,
+  "tests/hydrostatic_pressure_tests.py": true
 }
